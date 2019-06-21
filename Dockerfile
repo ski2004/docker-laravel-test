@@ -1,5 +1,5 @@
 FROM php:7.2.14-fpm-alpine3.8
-LABEL maintainer="yudada <yudada0312@gmail.com>"
+MAINTAINER ski2004
 
 ENV TIME_ZONE Asia/Shanghai
 ENV WORKDIR /var/www/html
